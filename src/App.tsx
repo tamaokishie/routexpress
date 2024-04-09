@@ -12,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.google.com/maps/dir/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Open Google Map
         </a>
       </header>
     </div>
